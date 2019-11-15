@@ -12,17 +12,20 @@ end
 
 def using_reverse(array)
   small_dogs = ["corgi","bulldog","frenchie"]
-
+small_dogs.reverse
 end
 
 def using_first(array)
-
+  small_dogs = ["corgi","bulldog","frenchie"]
+small_dogs.first
 end
 
 def using_last(array)
-
+  small_dogs = ["corgi","bulldog","frenchie"]
+small_dogs.last
 end
 
 def using_size(array)
-
+  small_dogs = ["corgi","bulldog","frenchie"]
+small_dogs.size
 end
